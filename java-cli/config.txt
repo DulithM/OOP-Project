@@ -1,0 +1,4 @@
+Total number of tickets: 30
+Ticket release rate(per second): 1000
+Customer retrieval rate(per second): 1500
+Maximum ticket capacity: 50
